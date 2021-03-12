@@ -64,7 +64,7 @@
     "react-cookie": "^2.0.6",
     "react-cookies": "^0.1.0",
     "react-csv": "^1.1.1",
-    "react-dev-utils": "^5.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.12.0",
     "react-dropzone": "^3.13.1",
     "react-html-parser": "^2.0.2",
